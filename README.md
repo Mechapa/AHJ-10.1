@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/fhg101rlejjx5612?svg=true)](https://ci.appveyor.com/project/Mechapa/ahj-10-1)
